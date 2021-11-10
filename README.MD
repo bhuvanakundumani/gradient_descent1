@@ -1,0 +1,2 @@
+Implementation of some of the basic optimiser algorithms.
+Detailed Blog is available at [https://bhuvanakundumani.hashnode.dev/optimiser-gradient-descent-algorithms-part-1](https://bhuvanakundumani.hashnode.dev/optimiser-gradient-descent-algorithms-part-1)
